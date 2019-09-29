@@ -22,4 +22,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-# Thank Yonathan Ayenew for guiding this project
+## Thank Yonathan Ayenew for guiding this project
